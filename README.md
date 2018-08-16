@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/rev2nym/SAN_EasingPicture/master/js/plugins/SA
 詳細はプラグイン内のヘルプを参照してください。   
 
 ## 外部ライブラリ
-このプラグインのみで`Quad`、`Siner`などの基本的なイージングを実現できます。
+このプラグインのみで`Quad`、`Sine`などの基本的なイージングを実現できます。
 そのほかに`Elastic`、`Bounce`などの特殊なイージングを実現するためには
 外部ライブラリの「Tween.js」をプラグインとして導入する必要があります。
 「Tween.js」は次のリンクから入手できます。   

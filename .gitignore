@@ -10,5 +10,6 @@ icon/*
 movies/*
 save/*
 js/*
+!js/plugins.js
 !js/plugins/
 js/plugins/Tween.js
